@@ -1,7 +1,7 @@
 # install
 
 ```
-pip install https://github.com/koya-ken/py-setup-template.git
+pip install git+git://github.com/koya-ken/py-setup-template.git
 ```
 
 # example
